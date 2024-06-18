@@ -31,25 +31,26 @@ This project is a simple React application designed to help me learn the basics 
 
 ```plaintext
 my-app
-├── public/                  # Статические файлы, доступные в корне проекта
-│   ├── ...                  # Другие файлы и директории
+├── public/                  # Static files accessible at the project root
+│   ├── ...                  # Other files and directories
 │   └── ...
-├── src/                     # Исходный код приложения
-│   ├── components/          # Компоненты React
-│   │   ├── Footer.js        # Компонент Footer
-│   │   ├── Intro.js         # Компонент Intro
-│   │   ├── Nav.js           # Компонент Nav
-│   │   ├── Promo.js         # Компонент Promo
-│   │   └── ...              # Другие компоненты
-│   ├── App.js               # Главный компонент приложения
-│   ├── index.js             # Точка входа приложения
+├── src/                     # Source code of the application
+│   ├── components/          # React components
+│   │   ├── Footer.js        # Footer component
+│   │   ├── Intro.js         # Intro component
+│   │   ├── Nav.js           # Nav component
+│   │   ├── Promo.js         # Promo component
+│   │   └── ...              # Other components
+│   ├── App.js               # Main application component
+│   ├── index.js             # Application entry point
 │   └── ...
-├── package.json             # Файл конфигурации проекта npm
-├── package-lock.json        # Файл блокировки зависимостей npm
-├── readme-img/              # Изображения для README
+├── package.json             # npm configuration file
+├── package-lock.json        # npm dependencies lock file
+├── readme-img/              # Images for README
 │   ├── ...
 │   └── ...
-└── README.md                # Файл документации проекта
+└── README.md                # Project documentation file
+
 ```
 
 <!-- Features
@@ -112,8 +113,8 @@ my-app
 ## Installation
 
 ### Prerequisites
-- Node.js
-- npm
+> [!IMPORTANT]
+> Node.js && npm
 
 ### Steps
 
