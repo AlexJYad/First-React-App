@@ -3,9 +3,8 @@ function Intro(props) {
         padding: "20px",
         border: "1px solid gray",
         background: "#fff",
-        margin: "20px 10px",
-        display: "inline-block",
-        width: "calc(calc(100% / 3) - 62px)"
+        margin: "20px 0px",
+        width: "calc(calc(100% / 3) - 62px)",
     }
     return (
         <div className="blog-post-intro" style={blog}>
