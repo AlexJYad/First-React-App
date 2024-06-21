@@ -9,6 +9,7 @@
 - [Roadmap](#roadmap)
   - [Build in](#build-in)
   - [Learn about](#learn-about)
+- [Contributing](#contributing)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Steps](#steps)
@@ -87,9 +88,9 @@ my-app
   - [ ] Managing State
 - [ ] Lifecycle Methods
 - [ ] Hooks
-  - [ ] useState
+  - [x] useState
   - [ ] useEffect
-- [ ] Event Handling
+- [x] Event Handling
 - [ ] Conditional Rendering
 - [ ] Lists and Keys
 - [ ] Forms
@@ -109,6 +110,9 @@ my-app
   - [ ] React Testing Library
 - [ ] Build and Deployment
 
+## Contributing
+
+This project is for educational purposes and contributions are not expected.
 
 ## Installation
 
