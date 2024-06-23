@@ -23,10 +23,10 @@ This project is a simple React application designed to help me learn the basics 
 ## Demo
 
 ~~Check out the live demo [here](https://example.com/demo).~~
-
 ![Site images as of June 18, 2024](readme-img/image.png)
 *Figure 1: Screenshot of the main page as of June 18, 2024*
-
+![Site images as of June 24, 2024](readme-img/image2.png)
+*Figure 2: Screenshot of the main page as of June 24, 2024*
 
 ## Project Structure
 
@@ -76,6 +76,7 @@ my-app
 - [x] Styling
   - [x] Basic CSS
   - [x] CSS Modules
+- [x] Routing
 - [ ] etc...
 
 ### Learn about
@@ -91,14 +92,14 @@ my-app
   - [x] useState
   - [ ] useEffect
 - [x] Event Handling
-- [ ] Conditional Rendering
+- [x] Conditional Rendering
 - [ ] Lists and Keys
 - [ ] Forms
 - [ ] Styling Components
   - [ ] CSS Modules
   - [ ] Styled Components
-- [ ] Routing
-  - [ ] React Router
+- [x] Routing
+  - [x] React Router
 - [ ] State Management
   - [ ] Context API
   - [ ] \(Optional) Redux
